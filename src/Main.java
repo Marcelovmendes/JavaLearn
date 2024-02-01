@@ -1,0 +1,12 @@
+import exercicios.Exercicio1;
+
+import java.util.Scanner;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Exercicio1.main(args);
+
+}
+
+}
